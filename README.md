@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project presents an end-to-end data analysis and business intelligence solution for the **Greater Cairo Real Estate Market**. Utilizing a dataset of 5,578 apartment listings across Cairo, Giza, and surrounding districts, this interactive Power BI dashboard extracts actionable market insights, evaluates pricing dynamics, and highlights key factors influencing apartment valuations.
-
+ 
 The dashboard serves real estate investors, developers, and potential home buyers by transforming raw market listings into intuitive visual analytics.
 
 ---
